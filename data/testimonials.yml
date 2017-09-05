@@ -1,0 +1,9 @@
+- name: Mark Zuckerberg
+  content: Best compagny I've ever seen !
+  image_file: mark.jpg
+- name: Bill Gates
+  content: Glad I invested in them !
+  image_file: bill.jpg
+- name: Evab
+  content: Do you like filters ?
+  image_file: evab.png
