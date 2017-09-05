@@ -14,6 +14,7 @@
 .bg-blue {
   background: $blue;
   color: white;
+  height : 100vh;
 }
 .bg-yellow {
   background: $yellow;
@@ -30,4 +31,16 @@
 .bg-purple {
   background: $purple;
   color: white;
+}
+
+.spacer-small {
+  height : 50px;
+}
+
+.spacer-medium {
+  height : 75px;
+}
+
+.spacer-big {
+  height : 100px;
 }
